@@ -1,0 +1,15 @@
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/bootsnap-1.8.1/ext/bootsnap
+/home/mauricio/.rbenv/versions/2.7.2/bin/ruby -I /home/mauricio/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210912-13401-1b0rk9c.rb extconf.rb
+creating Makefile
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210912-13401-ulgigz/bootsnap

@@ -1,0 +1,15 @@
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/websocket-driver-0.7.5/ext/websocket-driver
+/home/mauricio/.rbenv/versions/2.7.2/bin/ruby -I /home/mauricio/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210912-13401-19ugzca.rb extconf.rb
+creating Makefile
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /media/mauricio/6CF6FE466D2EC6E2/social-networking-site-master/vendor/bundle/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210912-13401-1uw5r4t
